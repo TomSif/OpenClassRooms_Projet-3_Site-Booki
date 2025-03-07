@@ -540,7 +540,7 @@ a {
   }
 
   .filter-button {
-    padding: 0 clamp(0.5rem, 1.14vw, 1.03rem);
+    padding: 0.5rem clamp(0.5rem, 1.14vw, 1.03rem);
   }
 
   .hebergements-and-populaires {
