@@ -129,7 +129,6 @@ a {
 }
 
 .search-input {
-  height: 3rem;
   border: none;
   color: var(--color-black);
   opacity: 100%;
@@ -208,9 +207,8 @@ a {
 .filter-button {
   border: 0.125rem solid var(--color-grey-tint-2);
   border-radius: 1.5rem;
-  height: 3rem;
   background-color: var(--color-white);
-  padding: 0 1rem;
+  padding: 0.5rem 1rem;
   display: flex;
   align-items: center;
 }
